@@ -1,7 +1,7 @@
 git+https://github.com/rancher/client-python.git@e3762d5e63e7f9c6ef327e967b876c06dbf43949
 boto3==1.10.6
 botocore==1.13.6
-cryptography==2.8
+cryptography==3.2
 flake8==3.5.0
 invoke==1.2.0
 Jinja2==2.10
